@@ -43,6 +43,10 @@ Type what you want in plain language: *summarise this thread in three sentences*
 
 <!-- /widget -->
 
+## Rolling it out to a team
+
+An administrator can deploy the add-in centrally instead of asking each person to install it, using the listing identifiers above. Two things are worth agreeing before the rollout: who is on the subscription, since prompts and tokens come out of one shared pool ([Plans and pricing](./pricing.md)), and what your security review needs, which is answered on [What is stored and what is not](./security/data-handling.md).
+
 ## The free trial
 
 R2 Copilot is free to try before you subscribe. On the main page of the website, under **Try for Free**, select the application you want to activate the free version for. At the end of the trial period you need a subscription to keep using the assistant — see [Plans and pricing](./pricing.md).
